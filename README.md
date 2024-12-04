@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CooperCW13
-- 👀 I’m interested in ... Apple®, YouTube®, Music, Ethical Hacking, Cooking, Cats, Cybersecurity
+- 👀 I’m interested in ... Apple®, YouTube®, Music, Ethical Hacking, Flipper Zero, Cooking, Cats, Cybersecurity, Music
 - 🌱 I’m currently learning ... Korean
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 CooperCW13/CooperCW13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
