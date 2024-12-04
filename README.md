@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CooperCW13
-- 👀 I’m interested in ... Apple®, Ethical Hacking, Flipper Zero, Cooking, Cats, Cybersecurity, Music
+- 👀 I’m interested in ... Apple®, Ethical Hacking, Flipper Zero, Cooking, Cats, Cybersecurity, Music, Math
 - 🌱 I’m currently learning ... Korean
 
 <!---
